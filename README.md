@@ -60,6 +60,8 @@
   [![Firebase](https://img.shields.io/badge/Firebase-9.x-FFCA28.svg?logo=firebase)](https://firebase.google.com/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg?logo=typescript)](https://www.typescriptlang.org/)
   [![Vite](https://img.shields.io/badge/Vite-4.x-646CFF.svg?logo=vite)](https://vitejs.dev/)
+  [![Tailwind](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC.svg?logo=tailwindcss)](https://tailwindcss.com/)
+
 
 #### 🔮 Próximas Poções
   [![Next.js](https://img.shields.io/badge/Next.js-14.x-000.svg?logo=nextdotjs)](https://nextjs.org/)
