@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 **Minha Jornada em 4 Atos** (Storytelling Visual)
+### 🚀 **Minha Jornada em 4 Atos** 
 
 |   |   |
 |---|---|
@@ -35,19 +35,15 @@
   [![Vite](https://img.shields.io/badge/Vite-4.x-646CFF.svg?logo=vite)](https://vitejs.dev/)
 
 #### 🔮 Próximas Poções
-[![Next.js](https://img.shields.io/badge/Next.js-14.x-000.svg?logo=nextdotjs)](https://nextjs.org/)
-
-[![Supabase](https://img.shields.io/badge/Supabase-3.x-3ECF8E.svg?logo=supabase)](https://supabase.io/)
-
-[![Vercel](https://img.shields.io/badge/Vercel-000.svg?logo=vercel)](https://vercel.com/)
-
-[![Node.js](https://img.shields.io/badge/Node.js-20.x-339933.svg?logo=nodedotjs)](https://nodejs.org/)
-
-[![Angular](https://img.shields.io/badge/Angular-16.x-DD0031.svg?logo=angular)](https://angular.io/)
+  [![Next.js](https://img.shields.io/badge/Next.js-14.x-000.svg?logo=nextdotjs)](https://nextjs.org/)
+  [![Supabase](https://img.shields.io/badge/Supabase-3.x-3ECF8E.svg?logo=supabase)](https://supabase.io/)
+  [![Vercel](https://img.shields.io/badge/Vercel-000.svg?logo=vercel)](https://vercel.com/)
+  [![Node.js](https://img.shields.io/badge/Node.js-20.x-339933.svg?logo=nodedotjs)](https://nodejs.org/)
+  [![Angular](https://img.shields.io/badge/Angular-16.x-DD0031.svg?logo=angular)](https://angular.io/)
 
 ---
 
-### 📊 **Mapa das Linguagens** (Efeito de Escassez Visual)
+### 📊 **Mapa das Linguagens**
 ```diff
 ! Atualizado magicamente a cada push...
 ```
