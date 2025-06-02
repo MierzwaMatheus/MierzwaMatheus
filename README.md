@@ -29,13 +29,21 @@
 
 ### ⚙️ **Ferramentas da Minha Alquimia Digital**
 #### 🧪 Núcleo Alquímico
-![JavaScript Alchemy](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000&style=plastic)
-![React Potion](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)
-![CSS Transmutation](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=plastic)
+  [![React](https://img.shields.io/badge/React-18.x-61DAFB.svg?logo=react)](https://reactjs.org/)
+  [![Firebase](https://img.shields.io/badge/Firebase-9.x-FFCA28.svg?logo=firebase)](https://firebase.google.com/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg?logo=typescript)](https://www.typescriptlang.org/)
+  [![Vite](https://img.shields.io/badge/Vite-4.x-646CFF.svg?logo=vite)](https://vitejs.dev/)
 
 #### 🔮 Próximas Poções
-![NextJS Orb](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat)
-![TypeScript Elixir](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+[![Next.js](https://img.shields.io/badge/Next.js-14.x-000.svg?logo=nextdotjs)](https://nextjs.org/)
+
+[![Supabase](https://img.shields.io/badge/Supabase-3.x-3ECF8E.svg?logo=supabase)](https://supabase.io/)
+
+[![Vercel](https://img.shields.io/badge/Vercel-000.svg?logo=vercel)](https://vercel.com/)
+
+[![Node.js](https://img.shields.io/badge/Node.js-20.x-339933.svg?logo=nodedotjs)](https://nodejs.org/)
+
+[![Angular](https://img.shields.io/badge/Angular-16.x-DD0031.svg?logo=angular)](https://angular.io/)
 
 ---
 
