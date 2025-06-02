@@ -20,14 +20,30 @@
 
 ---
 
-🧠 Laboratório de Agentes Cognitivos
+### 🧠 **Laboratório de Agentes Cognitivos**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 25px 0">
 
-MythoScape
-<div align="left"> <p>Sistema multi-agente para RPGs narrativos com:</p> <ul> <li>🔄 Arquitetura de agentes especializados (NPCs, mundo, combate)</li> <li>📊 Banco de dados em tempo real com rastreabilidade</li> <li>📝 Logs detalhados para depuração cognitiva</li> </ul> </div>
+[![MythoScape](https://custom-icon-badges.demolab.com/badge/🐉_MythoScape-000?logo=dragon&logoColor=white&style=for-the-badge)](https://github.com/MierzwaMatheus/mythoscape)
+<div align="left">
+  <p>Sistema multi-agente para RPGs narrativos com:</p>
+  <ul>
+    <li>🔄 Arquitetura de agentes especializados (NPCs, mundo, combate)</li>
+    <li>📊 Banco de dados em tempo real com rastreabilidade</li>
+    <li>📝 Logs detalhados para depuração cognitiva</li>
+  </ul>
+</div>
 
-IdeaForge
-<div align="left"> <p>Fábrica de ideias com especialistas virtuais:</p> <ul> <li>👥 5 agentes especialistas (Valida, Strategos, Pixel, Impulso, Construtor)</li> <li>📄 Geração de documentos acionáveis (pitch decks, business canvas)</li> <li>🎯 Transformação de ideias vagas em projetos estruturados</li> </ul> </div></div>
+[![IdeaForge](https://custom-icon-badges.demolab.com/badge/🚀_IdeaForge-000?logo=lightbulb&logoColor=white&style=for-the-badge)](https://github.com/MierzwaMatheus/ideaforge-ia)
+<div align="left">
+  <p>Fábrica de ideias com especialistas virtuais:</p>
+  <ul>
+    <li>👥 5 agentes especialistas (Valida, Strategos, Pixel, Impulso, Construtor)</li>
+    <li>📄 Geração de documentos acionáveis (pitch decks, business canvas)</li>
+    <li>🎯 Transformação de ideias vagas em projetos estruturados</li>
+  </ul>
+</div>
+
+</div>
 
 ---
 
