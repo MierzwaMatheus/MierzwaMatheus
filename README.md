@@ -57,7 +57,6 @@
 
 ### 🌐 **Conexões Alquímicas**
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Profissionalizar/0A66C2?logo=linkedin&logoColor=white&style=social)](https://br.linkedin.com/in/matheus-mierzwa-91b80b117)
-[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-Criatividade/E4405F?logo=instagram&logoColor=white&style=social)](https://www.instagram.com/mierzwa.brow/)
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-Colaboração/EA4335?logo=mail&logoColor=white&style=social)](mailto:mierzwa.oliveira@gmail.com)
 
 ---
