@@ -14,7 +14,7 @@
 |   |   |
 |---|---|
 | 🔮 **O Aprendiz** | Gestão de TI na FATEC + 500h de estudos autônomos em front-end |
-| ⚡ **O Transformador** | Domínio de HTML/CSS/JS -> Rumo a React/Vite com projetos interativos |
+| ⚡ **O Transformador** | Domínio de React/Vite -> Rumo a especialista em criação de agentes de IA |
 | 🧪 **O Alquimista** | Combino design minimalista com código performático para criar poções digitais |
 | 🌊 **O Evolucionário** | "Mudar para continuar o mesmo" - Minha bússola para inovação contínua |
 
