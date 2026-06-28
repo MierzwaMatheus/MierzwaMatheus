@@ -171,9 +171,9 @@ flowchart LR
 ```mermaid
 timeline
     title Career Path
-    2017 – 2018 : Operations &amp; Admin : Bradesco Cartões · Sampa Invest
-    2022 – 2024 : Fullstack Dev &amp; UI Designer : Roxus Studio — end-to-end systems for SME clients
-    2024 : Frontend Developer &amp; UI Designer : InBot — first dedicated frontend hire
+    2017 - 2018 : Operations and Admin : Bradesco Cartoes . Sampa Invest
+    2022 - 2024 : Fullstack Dev and UI Designer : Roxus Studio - systems for SME clients
+    2024 : Frontend Developer and UI Designer : InBot - first dedicated frontend hire
     2025 – Now : Front-End Tech Lead : InBot — sole production frontend approver
 ```
 
