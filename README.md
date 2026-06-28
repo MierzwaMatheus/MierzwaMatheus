@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.linkedin.com/in/matheusmierzwa">
+<a href="https://www.linkedin.com/in/matheus-mierzwa/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=4D7C5F&center=true&vCenter=true&width=720&lines=Fullstack+Tech+Lead;From+components+to+system+architecture;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Convex;I+think+in+systems%2C+not+features." alt="Matheus Mierzwa" />
 </a>
 
@@ -8,11 +8,11 @@
 
 <p><em>I build and lead fullstack systems end to end — from architecture to production.</em></p>
 
-<a href="https://www.linkedin.com/in/matheusmierzwa">
-  <img src="https://img.shields.io/badge/LinkedIn-matheusmierzwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/matheus-mierzwa/">
+  <img src="https://img.shields.io/badge/LinkedIn-matheus--mierzwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:mierzwa.oliveira@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mierzwa.oliveira-C4664A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:matheus@mmlo.com.br">
+  <img src="https://img.shields.io/badge/Email-matheus%40mmlo.com.br-C4664A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <img src="https://img.shields.io/badge/Greater%20S%C3%A3o%20Paulo-Brazil-1A1A18?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
