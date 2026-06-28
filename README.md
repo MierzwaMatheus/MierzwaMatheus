@@ -6,7 +6,7 @@
 
 <h1>Matheus Mierzwa</h1>
 
-<p><em>I build and lead fullstack systems end to end — from architecture to production.</em></p>
+<p><em>I build and lead fullstack systems end to end, from architecture to production.</em></p>
 
 <a href="https://www.linkedin.com/in/matheus-mierzwa/">
   <img src="https://img.shields.io/badge/LinkedIn-matheus--mierzwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,11 +22,11 @@
 
 ## 👋 About
 
-I’m a **Fullstack Tech Lead** at a conversational AI startup, where I'm the **sole approver for all production frontend changes** across a multi-product monorepo. I own frontend architecture, infrastructure, and delivery — from auth systems and CI/CD to design systems and accessibility.
+I'm a Fullstack Tech Lead at a conversational AI startup, where I'm the sole approver for all production frontend changes across a multi-product monorepo. I own frontend architecture, infrastructure, and delivery: auth systems, CI/CD, design systems, and accessibility.
 
-Outside of that, I design and ship **complete systems** for SME clients and open source: multi-tenant BaaS, self-hosted IAM, AI agent platforms, and developer tooling. Every system starts with a **PRD, a design system, and documented architecture** — before the first line of code.
+Outside of work I design and ship complete systems for SME clients and open source: multi-tenant BaaS, self-hosted IAM, AI agent platforms, and developer tooling. Every system starts with a PRD, a design system, and documented architecture before the first line of code.
 
-> My edge is simple: **I think in systems, not features.**
+> I think in systems, not features.
 
 ---
 
@@ -46,7 +46,7 @@ flowchart LR
     style E fill:#1A1A18,stroke:#C4664A,color:#fff
 ```
 
-Every system I build follows the same discipline — design before code:
+Every system I build follows the same discipline: design before code.
 
 ```mermaid
 flowchart LR
@@ -60,7 +60,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 **Frontend**
 
@@ -105,14 +105,14 @@ flowchart LR
 
 ## 🚀 Featured Systems
 
-> Self-designed, end-to-end systems — each starting from a PRD and documented architecture.
+> Systems I designed and built, each starting from a PRD and documented architecture.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🗄️ [OliBase](https://github.com/MierzwaMatheus/OliBase)
-**Multi-tenant BaaS** — auth, row-level security and scoped API keys. A self-hosted backend platform built as an honest, lean alternative to Firebase/Supabase.
+Multi-tenant BaaS with auth, row-level security, and scoped API keys. A self-hosted backend platform built as a lean alternative to Firebase and Supabase.
 
 `TypeScript` · `Multi-tenant` · `RLS` · `API Keys`
 
@@ -120,7 +120,7 @@ flowchart LR
 <td width="50%" valign="top">
 
 ### 🔐 [GateKey](https://github.com/MierzwaMatheus/gatekey)
-**Self-hosted IAM platform** — RBAC, RS256 JWT, scoped API keys, audit logging, MFA, magic links and OAuth. Fine-grained access control without handing off your auth infra.
+Self-hosted IAM platform: RBAC, RS256 JWT, scoped API keys, audit logging, MFA, magic links, and OAuth. Fine-grained access control without handing off your auth infrastructure.
 
 `TypeScript` · `Convex` · `RBAC` · `OAuth`
 
@@ -130,7 +130,7 @@ flowchart LR
 <td width="50%" valign="top">
 
 ### 🔨 [Code Forge](https://github.com/MierzwaMatheus/forge-code)
-**Evidence-driven development** — open-source system for automated validation and AI-powered code auditing. Ships software backed by evidence, not vibes.
+Evidence-driven development. An open-source system for automated validation and AI-powered code auditing.
 
 `TypeScript` · `AI Audit` · `Automation` · `GPL-3.0`
 
@@ -138,7 +138,7 @@ flowchart LR
 <td width="50%" valign="top">
 
 ### 🤖 [Tucano Agent](https://github.com/MierzwaMatheus/tucano-chat-agent)
-**AI personal finance assistant** — conversational agent that tracks and reasons over your finances, powered by Gemini.
+A personal finance assistant. A conversational agent that tracks and reasons over your finances, powered by Gemini.
 
 `React` · `Supabase` · `Gemini` · `Vite`
 
@@ -148,7 +148,7 @@ flowchart LR
 <td width="50%" valign="top">
 
 ### 💡 [IdeaForge](https://github.com/MierzwaMatheus/ideaforge-ia)
-**Idea-to-project structuring** — turns raw ideas into structured projects through a panel of specialist AI agents.
+Turns raw ideas into structured projects through a panel of specialist AI agents.
 
 `React` · `Firebase` · `Gemini` · `TypeScript`
 
@@ -156,7 +156,7 @@ flowchart LR
 <td width="50%" valign="top">
 
 ### ✍️ [Rubrica](https://github.com/MierzwaMatheus/rubrica)
-**Portfolio-as-a-system** — full professional portfolio (home, blog, résumé, proposals, payments, admin). Fork it, brand it, ship it.
+A full professional portfolio: home, blog, résumé, proposals, payments, and admin. Fork it, set your brand, and publish.
 
 `React` · `Convex` · `Vercel` · `GPL-3.0`
 
@@ -172,54 +172,54 @@ flowchart LR
 timeline
     title Career Path
     2017 - 2018 : Operations and Admin : Bradesco Cartoes . Sampa Invest
-    2022 - 2024 : Fullstack Dev and UI Designer : Roxus Studio - systems for SME clients
-    2024 : Frontend Developer and UI Designer : InBot - first dedicated frontend hire
-    2025 – Now : Front-End Tech Lead : InBot — sole production frontend approver
+    2022 - 2024 : Fullstack Dev and UI Designer : Roxus Studio, systems for SME clients
+    2024 : Frontend Developer and UI Designer : InBot, first dedicated frontend hire
+    2025 - Now : Front-End Tech Lead : InBot, sole production frontend approver
 ```
 
 <details>
-<summary><b>🏢 InBot — Front-End Tech Lead</b> · <i>Jan 2025 – Present</i></summary>
+<summary><b>InBot · Front-End Tech Lead</b> · <i>Jan 2025 - Present</i></summary>
 
 <br />
 
-Promoted to Tech Lead after driving the strategic evolution of the company's frontend architecture. I own architecture, infrastructure, and delivery across a multi-product monorepo as the **sole approver for all production frontend changes**.
+Promoted to Tech Lead after leading the evolution of the company's frontend architecture. I own architecture, infrastructure, and delivery across a multi-product monorepo as the sole approver for all production frontend changes.
 
-- 🏛️ Architected a **company-wide authentication system**, migrating legacy flows to **Keycloak** with a custom user-management layer — enabling enterprise onboarding
-- 🔗 Implemented **Microsoft Entra ID** via Keycloak Identity Broker, resolving a critical enterprise onboarding bottleneck
-- 🚀 Designed and led adoption of **Vercel** as primary frontend infra; built **CI/CD from scratch** with GitHub Actions + Git Flow and staging environments
-- ♿ Shipped **InTable 2.0** with full **WCAG accessibility** (ARIA roles, sorting, form patterns) and E2E automation — enabling enterprise adoption
-- ✈️ Delivered a production widget for **Azul (LATAM Airlines)** on schedule, with reusable components adopted across teams
-- 🌐 Delivered InBot's **2026 website** from scratch — SEO (meta tags, Open Graph) + AWS deploy, on time
-- 🧠 Architected **InCity**, a no-code AI agent builder for non-technical users
-- 👥 Built the company's **first structured frontend training program**
+- Architected a company-wide authentication system, migrating legacy flows to Keycloak with a custom user-management layer, enabling enterprise onboarding
+- Implemented Microsoft Entra ID via Keycloak Identity Broker, resolving a critical enterprise onboarding bottleneck
+- Designed and led adoption of Vercel as primary frontend infrastructure; built CI/CD from scratch with GitHub Actions and Git Flow, plus staging environments
+- Shipped InTable 2.0 with full WCAG accessibility (ARIA roles, sorting, form patterns) and E2E automation, enabling enterprise adoption
+- Delivered a production widget for Azul (LATAM Airlines) on schedule, with reusable components adopted across teams
+- Delivered InBot's 2026 website from scratch: SEO (meta tags, Open Graph) and AWS deploy, on time
+- Architected InCity, a no-code AI agent builder for non-technical users
+- Built the company's first structured frontend training program
 
 </details>
 
 <details>
-<summary><b>🎨 InBot — UI Designer &amp; Frontend Developer</b> · <i>Nov 2024 – Jan 2025</i></summary>
+<summary><b>InBot · UI Designer and Frontend Developer</b> · <i>Nov 2024 - Jan 2025</i></summary>
 
 <br />
 
-Joined as the **first dedicated frontend hire**, owning both UI/UX design and frontend implementation for the core admin platform — the foundation for my later promotion to Tech Lead.
+Joined as the first dedicated frontend hire, owning both UI/UX design and frontend implementation for the core admin platform. This role set the foundation for my later promotion to Tech Lead.
 
-- Led a full UX & visual redesign (~30% better perceived usability)
-- Defined the company's **first design system** and visual style guide
-- Drove adoption of **dark mode** as the primary product theme
-- Introduced **AI-assisted development workflows** (~40% faster delivery)
+- Led a full UX and visual redesign (~30% better perceived usability)
+- Defined the company's first design system and visual style guide
+- Drove adoption of dark mode as the primary product theme
+- Introduced AI-assisted development workflows (~40% faster delivery)
 
 </details>
 
 <details>
-<summary><b>🧰 Roxus Studio — Fullstack Developer &amp; UI Designer</b> · <i>2022 – Nov 2024</i></summary>
+<summary><b>Roxus Studio · Fullstack Developer and UI Designer</b> · <i>2022 - Nov 2024</i></summary>
 
 <br />
 
-Independent studio building **end-to-end digital systems** for SME clients — product design, UI engineering, and fullstack development.
+Independent studio building complete digital systems for SME clients: product design, UI engineering, and fullstack development.
 
-- Owned full project lifecycle (discovery → identity → deploy), **90%+ client satisfaction**
-- Shipped fullstack **workshop management systems** (React, Vite, Tailwind, Convex) — in production since 2022
-- Built reusable **TypeScript component libraries** (~25% faster delivery)
-- Progressively shifted from UI/branding into **backend architecture and auth flows**
+- Owned full project lifecycle (discovery, identity, deploy), 90%+ client satisfaction
+- Shipped fullstack workshop management systems (React, Vite, Tailwind, Convex), in production since 2022
+- Built reusable TypeScript component libraries (~25% faster delivery)
+- Progressively shifted from UI/branding into backend architecture and auth flows
 
 </details>
 
@@ -242,9 +242,9 @@ Independent studio building **end-to-end digital systems** for SME clients — p
 
 ## 🎓 Education & Certifications
 
-- 🎓 **Technologist, IT Management** — FATEC Barueri *(2018 – 2023)*
-- 🏫 **Technical Degree, Business & Administration** — ETEC São Paulo *(2015 – 2017)*
-- 📜 RAG for Generative AI Applications · AI Fundamentals and the Cloud · Model Context Protocol (Advanced) · Vector Databases for RAG
+- **Technologist, IT Management** · FATEC Barueri · *2018 to 2023*
+- **Technical Degree, Business and Administration** · ETEC São Paulo · *2015 to 2017*
+- **Certifications:** RAG for Generative AI Applications · AI Fundamentals and the Cloud · Model Context Protocol (Advanced) · Vector Databases for RAG
 
 <div align="center">
 
